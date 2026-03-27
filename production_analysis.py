@@ -1,3 +1,6 @@
+# Production Analysis Project
+# Ziel: Analyse von Ausschuss, Kosten und Stillstand in der Produktion
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
